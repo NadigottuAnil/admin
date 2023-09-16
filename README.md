@@ -1,2 +1,2 @@
 # admin
-URL: https://nadigottuanil.github.io/ngshop/
+URL: https://nadigottuanil.github.io/admin/
